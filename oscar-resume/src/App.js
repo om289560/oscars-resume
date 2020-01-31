@@ -16,7 +16,8 @@ class App extends Component {
     super(props);
     this.state = {
       foo: 'bar',
-      resumeData: {}
+      resumeData: {},
+      apiResponse: "" 
     };
 
     ReactGA.initialize('UA-110570651-1');
@@ -43,6 +44,21 @@ class App extends Component {
     this.getResumeData();
   }
 
+//   constructor(props) {
+//     super(props);
+//     this.state = { apiResponse: "" };
+// }
+
+callAPI() {
+    fetch("http://localhost:9000/testAPI")
+        .then(res => res.text())
+        .then(res => this.setState({ apiResponse: res }));
+}
+
+componentWillMount() {
+    this.callAPI();
+}
+
   render() {
     return (
       <div className="App">
@@ -53,6 +69,7 @@ class App extends Component {
         <Testimonials data={this.state.resumeData.testimonials}/>
         <Contact data={this.state.resumeData.main}/>
         <Footer data={this.state.resumeData.main}/>
+        <p className="App-intro">;{this.state.apiResponse}</p>
       </div>
     );
   }

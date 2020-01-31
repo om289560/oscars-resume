@@ -4,7 +4,7 @@
     "occupation":"(Full Stack)",
     "description":"Web Developer, with a heavy focus on front end design and mobile application UI.",
     "image":"profilepic.jpg",
-    "bio":"I am a (MERN) Fullstack Web Developer with a background in art and design. Lookng to impliment and grow my skills in both front end and back with a focus in orchestrating minimalist design and lean UI experiance.",
+    "bio":"I am a (MERN) Fullstack Web Developer with a background in art and design. I'm Looking to implement and grow my skills in both front and back end with a focus in orchestrating minimalist design and lean UI experiance.",
     "contactmessage":"If you have any questions please feel free to leave a meassage or contact me in any way!",
     "email": "omiranda0058@gmail.com",
     "phone": "469-352-7512",
@@ -17,21 +17,13 @@
     "website": "https://docs.google.com/document/d/1Jiu_rTXQ1GL7S0nAjAzF6qY0Gy5OhMAeXuDYEwF0hhg/edit?usp=sharing",
     "resumedownload":"https://docs.google.com/document/d/1Jiu_rTXQ1GL7S0nAjAzF6qY0Gy5OhMAeXuDYEwF0hhg/edit?usp=sharing",
     "social":[
-      {
-        "name":"facebook",
-        "url":"",
-        "className":"fa fa-facebook"
-      },
+     
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/OscarMi15060830",
         "className":"fa fa-twitter"
       },
-      {
-        "name":"google-plus",
-        "url":"",
-        "className":"fa fa-google-plus"
-      },
+     
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/oscarmirandajr/",
@@ -46,16 +38,12 @@
         "name":"github",
         "url":"https://github.com/om289560",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
+      
     ]
   },
   "resume":{
-    "skillmessage":"How may skills meausre up based on expertise.",
+    "skillmessage":"How my skills meausre up.",
     "education":[
       {
         "school":"Southern Methodist University",
@@ -87,7 +75,7 @@
       },
       {
         "name":"CSS3",
-        "level":"60%"
+        "level":"70%"
       },
       {
         "name":"HTML5",
@@ -132,7 +120,7 @@
       {
         "title":"Lyrical Connection",
         "category":"Music video and lyric web app.",
-        "image":"",
+        "image":"profilepic.jpg",
         "url":"https://om289560.github.io/project-1/"
       },
       {
