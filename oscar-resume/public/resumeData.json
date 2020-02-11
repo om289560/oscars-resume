@@ -54,10 +54,10 @@
     ],
     "work":[
       {
-        "company":"Fox Electric",
-        "title":"Electrician ",
-        "years":"October 2016 - Present",
-        "description":"Read blueprints or technical diagrams and inspect electrical components, such as transformers and circuit breakers."
+        "company":"222 Consulting Firm",
+        "title":"Account Manager",
+        "years":"Febuary 2020 - Present",
+        "description":"Develop strong relationships with customers, connect with key business executives and preparing sales reports, while also answering client queries and identify new business opportunities among existing customers."
       }
     ],
     "skills":[
@@ -120,19 +120,19 @@
       {
         "title":"Lyrical Connection",
         "category":"Music video and lyric web app.",
-        "image":"profilepic.jpg",
+        "image":"lyrical.jpg",
         "url":"https://om289560.github.io/project-1/"
       },
       {
         "title":"Coffee Talk",
         "category":"Chat web app utilizing sockets io",
-        "image":"",
+        "image":"coffee.jpg",
         "url":"https://project-2-misty-hills.herokuapp.com/"
       },
       {
         "title":"Road Ranger",
         "category":"Road Alert app using voice to text",
-        "image":"",
+        "image":"roadranger copy 2.png",
         "url":"https://play.google.com/store/apps/details?id=com.voicetotext1"
       }
     ]
