@@ -1,0 +1,156 @@
+{
+  "main": {
+    "name":"Oscar Miranda",
+    "occupation":"(Full Stack)",
+    "description":"Web Developer, with a heavy focus on front end design and mobile application UI.",
+    "image":"profilepic.jpg",
+    "bio":"I am a (MERN) Fullstack Web Developer with a background in art and design. I'm Looking to implement and grow my skills in both front and back end with a focus in orchestrating minimalist design and lean UI experiance.",
+    "contactmessage":"If you have any questions please feel free to leave a meassage or contact me in any way!",
+    "email": "omiranda0058@gmail.com",
+    "phone": "469-352-7512",
+    "address":{
+      "street":"3933 Cambridge Dr.",
+      "city":"Garland",
+      "state":"TX",
+      "zip": "75043"
+    },
+    "website": "https://docs.google.com/document/d/1Jiu_rTXQ1GL7S0nAjAzF6qY0Gy5OhMAeXuDYEwF0hhg/edit?usp=sharing",
+    "resumedownload":"https://docs.google.com/document/d/1Jiu_rTXQ1GL7S0nAjAzF6qY0Gy5OhMAeXuDYEwF0hhg/edit?usp=sharing",
+    "social":[
+     
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/OskarOceanSon",
+        "className":"fa fa-twitter"
+      },
+     
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/oscarmirandajr/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/oskar_ocean_son/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/om289560",
+        "className":"fa fa-github"
+      }
+      
+    ]
+  },
+  "resume":{
+    "skillmessage":"How my skills meausre up.",
+    "education":[
+      {
+        "school":"Southern Methodist University",
+        "degree":"Certificate Program in Full-Stack Web Development",
+        "graduated":"November, 2019",
+        "description":"A 24-week intensive program focused on gaining technical programming skills in HTML5, CSS3, Javascript, JQuery, Bootstrap, Firebase, Node Js, MySQL, MongoDB, Express, Handelbars.js & ReactJS."
+      }
+    ],
+    "work":[
+      {
+        "company":"222 Consulting Firm",
+        "title":"Account Manager",
+        "years":"Febuary 2020 - Present",
+        "description":"Develop strong relationships with customers, connect with key business executives and preparing sales reports, while also answering client queries and identify new business opportunities among existing customers."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"20%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS3",
+        "level":"70%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"60%"
+      },
+      {
+        "name":"ExpressJS",
+        "level":"50%"
+      },
+      {
+        "name":"MySQL",
+        "level":"70%"
+      },
+      {
+        "name":"React Native",
+        "level":"30%"
+      },
+      {
+        "name":"JQuery",
+        "level":"60%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"50%"
+      },
+      {
+        "name":"Javascript",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Lyrical Connection",
+        "category":"Music video and lyric web app.",
+        "image":"lyrical.jpg",
+        "url":"https://om289560.github.io/project-1/"
+      },
+      {
+        "title":"Coffee Talk",
+        "category":"Chat web app utilizing sockets io",
+        "image":"coffee.jpg",
+        "url":"https://project-2-misty-hills.herokuapp.com/"
+      },
+      {
+        "title":"Road Ranger",
+        "category":"Road Alert app using voice to text",
+        "image":"rr.jpg",
+        "url":"https://play.google.com/store/apps/details?id=com.voicetotext1"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Oscar was one of the first people I had the pleasure of working with on a project at SMU. He is truly inovative and is always up for putting in the hard work. He has great ideas and never shies away from putting extra time into something that has proven to be difficult. He is a very reliable team member and set the bar high for furture group members. Anyone would be truly lucky to have Oscar on their team!",
+        "user":"Briana Bricher"
+      },
+      {
+        "text":"I was lucky to work with Oscar on a project to build an Android/IOS app that aids in driver navigation using an interactive map and voice to text software. A skilled and energetic web developer, Oscar is an effective team player and well motivated self starter with a strong knowledge of React, Node js, and React Native Expo. His dedication to creating a successful product was a great help in the creation of our app.",
+        "user":"Nicholas Haer"
+      },
+      {
+        "text":"We worked in two different projects together. I really enjoyed working with him. He puts real effort to his work and gets good results. He is very skilled and effective team member. He communicates well with other members. He is skilled front-end developer and a quick learner.",
+        "user":"Abdullah Bayindir"
+      }
+    ]
+  }
+}
